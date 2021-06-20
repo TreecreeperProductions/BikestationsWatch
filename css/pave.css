@@ -10,7 +10,7 @@ p {
 }
 
 h1 {
-	font-size: 430%;
+	font-size: 330%;
 }
 
 
@@ -227,7 +227,7 @@ padding-bottom: 1%;
 .paragraph-frontPage {
 	font-family: 'Overpass', sans-serif;
 /* 	font-size: medium; */
-	font-size: 30px;
+	font-size: 24px;
 	text-align: justify;
 	font-weight: 600;
 	max-width: 95%;
